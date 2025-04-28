@@ -3587,6 +3587,16 @@
 	)
 	(wire
 		(pts
+			(xy 237.49 67.31) (xy 233.68 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "285b46c9-206b-4516-9551-8a8bfa83253b")
+	)
+	(wire
+		(pts
 			(xy 248.92 74.93) (xy 248.92 76.2)
 		)
 		(stroke
@@ -3707,7 +3717,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 67.31) (xy 233.68 74.93)
+			(xy 237.49 67.31) (xy 237.49 74.93)
 		)
 		(stroke
 			(width 0)
@@ -3967,7 +3977,7 @@
 	)
 	(wire
 		(pts
-			(xy 233.68 74.93) (xy 248.92 74.93)
+			(xy 237.49 74.93) (xy 248.92 74.93)
 		)
 		(stroke
 			(width 0)
@@ -4503,7 +4513,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 58.1152 49.53 0)
 			(effects
 				(font
@@ -4986,7 +4996,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 53.0352 92.71 0)
 			(effects
 				(font
@@ -5274,7 +5284,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 215.5952 72.39 0)
 			(effects
 				(font
@@ -5952,7 +5962,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 239.522 92.71 90)
 			(effects
 				(font
@@ -6021,7 +6031,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 32.7152 92.71 0)
 			(effects
 				(font
@@ -6090,7 +6100,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Diode_SMD:D_SMB"
 			(at 247.65 95.25 0)
 			(effects
 				(font
@@ -6177,7 +6187,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric"
 			(at 233.172 92.71 90)
 			(effects
 				(font
