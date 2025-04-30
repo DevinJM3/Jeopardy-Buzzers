@@ -3301,7 +3301,7 @@
 		)
 		(uuid "263a4bc0-ea63-4328-a0df-6995b5aa3cbd")
 	)
-	(text_box "LCSC:\n	C2977777 : CH340N USB 2 UART\n	C29780875: USB-C Connector\n	C20606560: 5.1v Zener Diodes"
+	(text_box "LCSC:\n	C2977777 : CH340N USB 2 UART\n	C2988369 : USB-C Connector\n	C20606560: 5.1v Zener Diodes"
 		(exclude_from_sim no)
 		(at 177.8 96.52 0)
 		(size 41.91 10.16)
@@ -6273,7 +6273,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Library:Usb-C"
 			(at 261.62 63.5 0)
 			(effects
 				(font
