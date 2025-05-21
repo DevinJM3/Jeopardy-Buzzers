@@ -5200,28 +5200,6 @@
 			)
 		)
 	)
-	(global_label "MCU_PC2"
-		(shape bidirectional)
-		(at 92.71 95.25 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "18ab1758-e263-415d-8552-90ea4eda516a")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.8445 95.25 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "NRF24L01_CE"
 		(shape output)
 		(at 109.22 54.61 180)
@@ -5530,6 +5508,28 @@
 			)
 		)
 	)
+	(global_label "MCU_PC2"
+		(shape bidirectional)
+		(at 92.71 90.17 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "768c1ad3-13b6-4a04-847b-da79e7cc0f68")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 79.8445 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
 	(global_label "MCU_UART_TX"
 		(shape input)
 		(at 193.04 60.96 180)
@@ -5543,28 +5543,6 @@
 		(uuid "79275429-a46d-4918-8d89-98216e3e4f9d")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 177.2339 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
-	(global_label "MCU_PC0"
-		(shape bidirectional)
-		(at 92.71 90.17 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "7d8850bd-e9ae-434e-9c47-ec1773f5001e")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 79.8445 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5697,6 +5675,28 @@
 		(uuid "a0195454-922c-46c4-89b5-8f8aad6b099c")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 17.2139 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "MCU_PC0"
+		(shape bidirectional)
+		(at 92.71 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "a9b436b9-8ff5-4ed6-825b-310412a7b64c")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 79.8445 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
