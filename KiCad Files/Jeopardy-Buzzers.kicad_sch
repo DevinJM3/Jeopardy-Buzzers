@@ -6374,6 +6374,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C37635376"
+			(at 140.97 77.47 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "924df393-7455-44c4-8d3f-450580fe8a71")
 		)
@@ -6441,6 +6450,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 57.15 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19702"
 			(at 57.15 45.72 0)
 			(effects
 				(font
@@ -6582,6 +6600,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C7501275"
+			(at 99.06 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "a8b53d80-d31f-4f8e-8356-649af26f4cfb")
 		)
@@ -6660,6 +6687,15 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 115.57 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663"
+			(at 115.57 36.83 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6793,6 +6829,15 @@
 		)
 		(property "Description" "Generic connector, single row, 01x03, script generated"
 			(at 161.29 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C6332196"
+			(at 161.29 60.96 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7139,6 +7184,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C19077401"
+			(at 231.14 73.66 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "320a238f-381e-4953-b144-d25340f44dbf")
 		)
@@ -7201,6 +7255,15 @@
 			)
 		)
 		(property "Description" "CH32V003 series are industrial-grade general-purpose microcontrollers designed based on 32-bit RISC-V instruction set and architecture. It adopts QingKe V2A core, RV32EC instruction set, and supports 2 levels of interrupt nesting. The series are mounted with rich peripheral interfaces and function modules. Its internal organizational structure meets the low-cost and low-power embedded application scenarios."
+			(at 121.92 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C5299908"
 			(at 121.92 57.15 0)
 			(effects
 				(font
@@ -7335,6 +7398,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C103198"
+			(at 90.17 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "367f27df-c2e5-4e99-8c39-169d1d2b8c9c")
 		)
@@ -7396,6 +7468,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 81.28 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C103198"
 			(at 81.28 43.18 0)
 			(effects
 				(font
@@ -7669,6 +7750,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C157929"
+			(at 161.29 30.48 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "4c29e3cc-06d5-44aa-a2ba-e55428fd9371")
 		)
@@ -7866,6 +7956,15 @@
 			)
 		)
 		(property "Description" "Ultra low power 2.4GHz RF Transceiver, Carrier PCB"
+			(at 44.45 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C2834799"
 			(at 44.45 45.72 0)
 			(effects
 				(font
@@ -8159,6 +8258,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C519482"
+			(at 134.62 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b04451a0-d57c-446d-8c49-5a2f84d99297")
 		)
@@ -8294,6 +8402,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2988369"
+			(at 265.43 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "B9"
 			(uuid "dfc9c0d4-91a0-4d43-a2ca-41200e6d368d")
 		)
@@ -8394,6 +8511,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 52.07 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C6119863"
 			(at 52.07 88.9 0)
 			(effects
 				(font
@@ -8669,6 +8795,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C2977777"
+			(at 203.2 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "7"
 			(uuid "4beb7483-63b4-455e-a1a0-3713848b005c")
 		)
@@ -8748,6 +8883,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C14663"
 			(at 214.63 68.58 0)
 			(effects
 				(font
@@ -9217,6 +9361,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C98220"
+			(at 137.16 36.83 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "03029674-226b-47ab-b944-413ce23320a6")
 		)
@@ -9279,6 +9432,15 @@
 		)
 		(property "Description" "Zener diode"
 			(at 223.52 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19077401"
+			(at 223.52 73.66 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9429,6 +9591,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C965799"
+			(at 90.17 52.07 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "b99f5d97-42c1-4b8a-b4c0-a776709dd5ae")
 		)
@@ -9567,6 +9738,15 @@
 		)
 		(property "Sim.Pins" "1=K 2=A"
 			(at 81.28 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C965799"
+			(at 81.28 52.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9775,6 +9955,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C5205141"
+			(at 41.91 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "8e8d1817-6eb1-41b7-9807-12618a09af97")
 		)
@@ -9914,6 +10103,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C3016319"
+			(at 241.3 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "fcacba34-0844-48c9-8147-94e3a7f5d760")
 		)
@@ -9975,6 +10173,15 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 31.75 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C19702"
 			(at 31.75 88.9 0)
 			(effects
 				(font
@@ -10119,6 +10326,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C519482"
+			(at 147.32 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "407ae72c-3d76-40ce-aaaf-611bcec73f9e")
 		)
@@ -10253,6 +10469,15 @@
 				(hide yes)
 			)
 		)
+		(property "LCSC Part #" "C19077401"
+			(at 247.65 93.98 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f59e85f2-fb04-4662-b1e7-9c28acc04da6")
 		)
@@ -10314,6 +10539,15 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 234.95 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "LCSC Part #" "C3016319"
 			(at 234.95 92.71 0)
 			(effects
 				(font
