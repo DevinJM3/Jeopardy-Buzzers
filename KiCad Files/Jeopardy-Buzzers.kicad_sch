@@ -4361,6 +4361,16 @@
 	)
 	(wire
 		(pts
+			(xy 156.21 36.83) (xy 156.21 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2e6223a1-e377-485e-8fec-d27e34a22bc1")
+	)
+	(wire
+		(pts
 			(xy 134.62 88.9) (xy 140.97 88.9)
 		)
 		(stroke
@@ -4691,16 +4701,6 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 36.83) (xy 166.37 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "66d931cc-f118-4405-87be-b6b129a1621c")
-	)
-	(wire
-		(pts
 			(xy 49.53 85.09) (xy 52.07 85.09)
 		)
 		(stroke
@@ -5018,16 +5018,6 @@
 			(type default)
 		)
 		(uuid "abb8d49f-6169-4947-b4cd-b5a950c7658d")
-	)
-	(wire
-		(pts
-			(xy 156.21 36.83) (xy 156.21 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "b4c9206f-16cf-4451-b88e-09bacb13c089")
 	)
 	(wire
 		(pts
@@ -5368,6 +5358,16 @@
 			(type default)
 		)
 		(uuid "f50dce3a-04d6-4334-81b2-f28486c9b1f7")
+	)
+	(wire
+		(pts
+			(xy 166.37 36.83) (xy 166.37 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fc4a298b-fb1c-48c8-bab4-1d16d7f51a0b")
 	)
 	(wire
 		(pts
@@ -6015,28 +6015,6 @@
 			)
 		)
 	)
-	(global_label "WS2812_LED"
-		(shape input)
-		(at 166.37 38.1 270)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right)
-		)
-		(uuid "c3733fb7-b396-4f15-8122-9d6afc422548")
-		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 166.37 52.9988 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-	)
 	(global_label "MCU_PC0"
 		(shape bidirectional)
 		(at 90.17 38.1 90)
@@ -6072,6 +6050,28 @@
 		(uuid "d94bb1cd-de7b-4019-a24b-c742bdd5a9ee")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 96.3545 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "WS2812_LED"
+		(shape input)
+		(at 156.21 39.37 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "e49fa1d3-62f1-47c0-b393-4627417df079")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 156.21 54.2688 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9180,7 +9180,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 156.21 38.1 0)
+		(at 166.37 39.37 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9189,7 +9189,7 @@
 		(fields_autoplaced yes)
 		(uuid "abbc79d9-80f2-4d82-9fdc-6453510d0bae")
 		(property "Reference" "#PWR020"
-			(at 156.21 44.45 0)
+			(at 166.37 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,7 +9198,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 156.21 43.18 0)
+			(at 166.37 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9206,7 +9206,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 156.21 38.1 0)
+			(at 166.37 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9215,7 +9215,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 156.21 38.1 0)
+			(at 166.37 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9224,7 +9224,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 156.21 38.1 0)
+			(at 166.37 39.37 0)
 			(effects
 				(font
 					(size 1.27 1.27)
